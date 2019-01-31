@@ -9,7 +9,7 @@
 + Design `UICollectionView` in Storyboard with Auto Layout.
 + Multiple sections and section header views.
 
-![](pics/iPhoneXSMax.png) ![](pics/iPhone8.png) ![](pics/iPhoneSE.png)
+![](pics/iPhoneXSMax.png)
 
 ---
 
