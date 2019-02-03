@@ -28,3 +28,7 @@
 + Delete items from `UICollectionView`.
 
 ![](gifs/DeleteItems.gif)
+
+---
+
+Tutorial Source: [David Tran](https://www.youtube.com/channel/UCvPFGq6luCqAVGiFpzTvkIA)
